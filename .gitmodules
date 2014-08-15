@@ -1,0 +1,9 @@
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:feedhenry-templates/fh-mobile-spec-portal.git
+[submodule "cloud"]
+	path = cloud
+	url = git@github.com:feedhenry-templates/fh-mobile-spec-cloud.git
+[submodule "app"]
+	path = app
+	url = git@github.com:feedhenry-templates/fh-mobile-spec-app.git
